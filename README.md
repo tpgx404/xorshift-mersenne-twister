@@ -1,7 +1,7 @@
-```Random Number Generator Comparison```
-Xorshift vs. Mersenne Twister (Python & Java)
+𝐑𝐚𝐧𝐝𝐨𝐦 𝐍𝐮𝐦𝐛𝐞𝐫 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫 𝐂𝐨𝐦𝐩𝐚𝐫𝐢𝐬𝐨𝐧
+𝐗𝐨𝐫𝐬𝐡𝐢𝐟𝐭 𝐯𝐬. 𝐌𝐞𝐫𝐬𝐞𝐧𝐧𝐞 𝐓𝐰𝐢𝐬𝐭𝐞𝐫 (𝐏𝐲𝐭𝐡𝐨𝐧 & 𝐉𝐚𝐯𝐚)
 
-📌 Overview
+📌 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
 
 As we move toward an era of highly globalized virtual systems driven by AI-powered connectedness, technologies such as Cloud Computing, Data Analytics, Generative AI, Blockchain, and the Internet of Things (IoT) are becoming increasingly important. Many modern applications—such as simulation, gaming, cybersecurity, and scientific computing—depend heavily on efficient and high-quality random number generation.
 
@@ -13,7 +13,7 @@ Mersenne Twister (MT19937)
 
 The implementations are designed to analyze their performance, statistical behavior, collision thresholds, and execution speed, with a focus on practical usability across different programming environments.
 
-🎯 Objectives
+🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬
 
 Compare XORshift and Mersenne Twister PRNGs
 
@@ -26,7 +26,7 @@ Evaluate execution speed and implementation efficiency
 Provide insights into language-based performance differences (Python vs Java)
 
 🔬 Algorithms Included
-1️⃣ XORshift (Xorshift128)
+1️⃣ 𝐗𝐎𝐑𝐬𝐡𝐢𝐟𝐭 (𝐗𝐨𝐫𝐬𝐡𝐢𝐟𝐭𝟏𝟐𝟖)
 
 XORshift is a family of PRNGs that generates randomness using bitwise XOR and shift operations.
 
@@ -44,7 +44,7 @@ State transition:
 <img width="407" height="108" alt="image" src="https://github.com/user-attachments/assets/6c455c1d-3539-42df-a8f9-3a6f8bf6a370" />
 
 
-2️⃣ Mersenne Twister (MT19937)
+2️⃣ 𝐌𝐞𝐫𝐬𝐞𝐧𝐧𝐞 𝐓𝐰𝐢𝐬𝐭𝐞𝐫 (𝐌𝐓𝟏𝟗𝟗𝟑𝟕)
 
 The Mersenne Twister is one of the most widely used PRNGs and is the default random number generator in Python.
 
@@ -58,7 +58,7 @@ High statistical quality
 
 Commonly used in scientific simulations and modeling
 
-🛠 Features
+🛠 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 ✅ Dual-Algorithm Support (XORshift & Mersenne Twister)
 
