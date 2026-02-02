@@ -1,4 +1,4 @@
-Random Number Generator Comparison
+``Random Number Generator Comparison``
 Xorshift vs. Mersenne Twister (Python & Java)
 📌 Overview
 
