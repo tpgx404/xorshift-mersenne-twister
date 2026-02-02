@@ -26,6 +26,7 @@ Evaluate execution speed and implementation efficiency
 Provide insights into language-based performance differences (Python vs Java)
 
 🔬 Algorithms Included
+
 1️⃣ 𝐗𝐎𝐑𝐬𝐡𝐢𝐟𝐭 (𝐗𝐨𝐫𝐬𝐡𝐢𝐟𝐭𝟏𝟐𝟖)
 
 XORshift is a family of PRNGs that generates randomness using bitwise XOR and shift operations.
@@ -80,7 +81,8 @@ Frequency analysis and result export
 
 (Java implementations can be added or linked if applicable)
 
-▶️ How to Run
+▶️ 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧
+
 Prerequisites
 
 Python 3.x installed
@@ -116,7 +118,7 @@ Frequency of each number:
 123456789 : 1
 987654321 : 1
 
-📊 Experimental Insights
+📊 𝐄𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐚𝐥 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬
 
 XORshift demonstrates very high speed with minimal overhead
 
@@ -126,7 +128,7 @@ Java implementations consistently outperform Python in execution speed
 
 Performance varies significantly with dataset size and platform
 
-📌 Applications
+📌 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
 
 Scientific simulations
 
@@ -138,7 +140,7 @@ Non-cryptographic security models
 
 Performance benchmarking of PRNGs
 
-🧠 Conclusion
+🧠 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧
 
 This comparative analysis offers practical guidance for selecting an appropriate PRNG and programming language based on:
 
@@ -150,6 +152,6 @@ Platform constraints
 
 The results are especially useful for new researchers and developers working with large-scale simulations and randomness-dependent applications.
 
-🔑 Keywords
+🔑 𝐊𝐞𝐲𝐰𝐨𝐫𝐝𝐬
 
 Random Number Generation, XORshift, Mersenne Twister, Python, Java, Collision Threshold, Execution Time, PRNG
