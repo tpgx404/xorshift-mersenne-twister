@@ -1,5 +1,6 @@
-``Random Number Generator Comparison``
+```Random Number Generator Comparison```
 Xorshift vs. Mersenne Twister (Python & Java)
+
 📌 Overview
 
 As we move toward an era of highly globalized virtual systems driven by AI-powered connectedness, technologies such as Cloud Computing, Data Analytics, Generative AI, Blockchain, and the Internet of Things (IoT) are becoming increasingly important. Many modern applications—such as simulation, gaming, cybersecurity, and scientific computing—depend heavily on efficient and high-quality random number generation.
