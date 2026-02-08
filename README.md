@@ -102,7 +102,7 @@ Choose:
 
 1 for XORshift128
 
-2 for Mersenne Twister
+2 for Mersenne Twister 
 
 📄 Output
 
