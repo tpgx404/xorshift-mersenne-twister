@@ -12,7 +12,7 @@ def xorshift128():
 
     def _random():
         nonlocal x, y, z, w
-        t = x ^ ((x << 11) & 0xFFFFFFFF)  # 32-bit
+        t = x ^ ((x << 11) & 0xFFFFFFFF)  # 32-bit 
         x, y, z = y, z, w
         w = (w ^ (w >> 19)) ^ (t ^ (t >> 8))
         return w
